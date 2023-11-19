@@ -4,12 +4,7 @@
 <h3 align="center"><a href="https://akinaxnews.com.tr" target="_blank"><img src="https://img.shields.io/badge/My%20Site-Click%20Me!-blue" alt="" width="200px"></a></h3>
 
 <p align="center">
-        I am skilled at developing complex solutions, creating responsive
-        designs, possessing strong creative thinking skills, high energy and
-        integrity, Ability to create algorithms effectively, and interact
-        positively and communicate appropriately with team members, Quickly
-        grasp new technologies and concepts to develop innovative and creative
-        solutions to problems.
+   Hi I am Turgut Akin I am a small person with big dreams I am interested in software I am currently studying in high school I am also the founder of 5 companies and my goal is to graduate in 2025 to become a computer engineer and to be able to do big things in a short time.
 </p>
 
 <h2 align="center">🚀Technical Skills</h2>
